@@ -12,9 +12,10 @@ requires       'Pod::Cpandoc';
 requires       'Devel::NYTProf';
 requires       'Devel::Cover';
 
-# one-off script tools
+# modules I use in scripts
 requires       'perl5i';
 requires       'IO::All';
+requires       'IPC::System::Simple';
 
 # one-off debugging tools
 requires       'Data::Dump::Streamer';
