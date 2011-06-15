@@ -36,6 +36,12 @@ requires       'Lingua::JA::Romanize::Japanese';
 requires       'Lingua::JP::Kanjidic';
 requires       'Lingua::JA::Heisig';
 
+# typically-optional test dependencies
+requires       'Test::Pod';
+requires       'Test::Pod::Coverage';
+requires       'Test::NoTabs';
+requires       'Test::Spelling';
+
 # things I generally want installed even if I don't use them
 requires       'Dist::Zilla';
 requires       'ExtUtils::MakeMaker::Dist::Zilla::Develop';
