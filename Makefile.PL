@@ -38,6 +38,7 @@ requires       'Lingua::JA::Heisig';
 
 # things I generally want installed even if I don't use them
 requires       'Dist::Zilla';
+requires       'ExtUtils::MakeMaker::Dist::Zilla::Develop';
 
 manifest_skip;
 auto_manifest;
