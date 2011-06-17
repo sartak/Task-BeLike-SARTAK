@@ -22,6 +22,9 @@ requires       'Data::Dump::Streamer';
 requires       'V';
 requires       'Carp::Always::Color';
 requires       'Devel::StackTrace::WithLexicals';
+requires       'indirect';
+requires       'autovivification';
+requires       'circular::require';
 
 # toolchain
 requires       'Module::Install';
