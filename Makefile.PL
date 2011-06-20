@@ -11,6 +11,7 @@ requires       'App::Ack';
 requires       'Pod::Cpandoc';
 requires       'Devel::NYTProf';
 requires       'Devel::Cover';
+requires       'rename';
 
 # modules I use in scripts
 requires       'perl5i';
