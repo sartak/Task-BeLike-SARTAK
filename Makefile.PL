@@ -12,6 +12,7 @@ requires       'Pod::Cpandoc';
 requires       'Devel::NYTProf';
 requires       'Devel::Cover';
 requires       'rename';
+requires       'utf8::all';
 
 # modules I use in scripts
 requires       'perl5i';
