@@ -18,6 +18,7 @@ requires       'utf8::all';
 requires       'perl5i';
 requires       'IO::All';
 requires       'IPC::System::Simple';
+requires       'DBD::SQLite';
 
 # one-off debugging tools
 requires       'Data::Dump::Streamer';
