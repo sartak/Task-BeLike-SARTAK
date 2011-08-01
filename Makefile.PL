@@ -29,6 +29,7 @@ requires       'Devel::StackTrace::WithLexicals';
 requires       'indirect';
 requires       'autovivification';
 requires       'circular::require';
+requires       'Module::Versions::Report';
 
 # toolchain
 requires       'Module::Install';
