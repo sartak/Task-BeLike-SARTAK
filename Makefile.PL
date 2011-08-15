@@ -44,6 +44,7 @@ requires       'REST::Google::Translate';
 requires       'Lingua::JA::Romanize::Japanese';
 requires       'Lingua::JP::Kanjidic';
 requires       'Lingua::JA::Heisig';
+requires       'Lingua::JA::Moji';
 
 # typically-optional test dependencies
 requires       'Test::Pod';
