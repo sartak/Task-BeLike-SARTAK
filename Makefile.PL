@@ -20,6 +20,7 @@ requires       'IO::All';
 requires       'IPC::System::Simple';
 requires       'DBD::SQLite';
 requires       'Getopt::Whatever';
+requires       'Web::Scraper';
 
 # one-off debugging tools
 requires       'Data::Dump::Streamer';
