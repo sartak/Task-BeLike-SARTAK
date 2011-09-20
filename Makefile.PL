@@ -39,6 +39,7 @@ requires       'Module::Install::ReadmeFromPod';
 requires       'Module::Install::ManifestSkip';
 requires       'Module::Install::AutoManifest';
 requires       'CPAN::Uploader';
+requires       'File::ShareDir';
 
 # Japanese
 requires       'REST::Google::Translate';
