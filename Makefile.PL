@@ -31,6 +31,7 @@ requires       'indirect';
 requires       'autovivification';
 requires       'circular::require';
 requires       'Module::Versions::Report';
+requires       'Signal::StackTrace::CarpLike';
 
 # toolchain
 requires       'Module::Install';
