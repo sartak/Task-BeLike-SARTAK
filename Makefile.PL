@@ -58,9 +58,6 @@ requires       'Test::Pod::Coverage';
 requires       'Test::NoTabs';
 requires       'Test::Spelling';
 
-# things I generally want installed even if I don't use them
-requires       'perl5i';
-
 manifest_skip;
 auto_manifest;
 WriteAll;
