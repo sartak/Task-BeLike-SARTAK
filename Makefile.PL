@@ -20,6 +20,7 @@ requires       'IPC::System::Simple';
 requires       'DBD::SQLite';
 requires       'Getopt::Whatever';
 requires       'Web::Scraper';
+requires       'Chart::Clicker';
 
 # one-off debugging tools
 requires       'Data::Dump::Streamer';
@@ -40,6 +41,9 @@ requires       'Module::Install::ManifestSkip';
 requires       'Module::Install::AutoManifest';
 requires       'CPAN::Uploader';
 requires       'File::ShareDir';
+requires       'Dist::Zilla';
+requires       'Dist::Zilla::PluginBundle::DOY';
+requires       'ExtUtils::MakeMaker::Dist::Zilla::Develop';
 
 # Japanese
 requires       'Lingua::JA::Romanize::Japanese';
@@ -55,8 +59,6 @@ requires       'Test::NoTabs';
 requires       'Test::Spelling';
 
 # things I generally want installed even if I don't use them
-requires       'Dist::Zilla';
-requires       'ExtUtils::MakeMaker::Dist::Zilla::Develop';
 requires       'perl5i';
 
 manifest_skip;
