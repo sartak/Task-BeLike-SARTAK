@@ -43,7 +43,6 @@ requires       'CPAN::Uploader';
 requires       'File::ShareDir';
 
 # Japanese
-requires       'REST::Google::Translate';
 requires       'Lingua::JA::Romanize::Japanese';
 requires       'Lingua::JP::Kanjidic';
 requires       'Lingua::JA::Heisig';
