@@ -15,7 +15,6 @@ requires       'rename';
 requires       'utf8::all';
 
 # modules I use in scripts
-requires       'perl5i';
 requires       'IO::All';
 requires       'IPC::System::Simple';
 requires       'DBD::SQLite';
@@ -58,6 +57,7 @@ requires       'Test::Spelling';
 # things I generally want installed even if I don't use them
 requires       'Dist::Zilla';
 requires       'ExtUtils::MakeMaker::Dist::Zilla::Develop';
+requires       'perl5i';
 
 manifest_skip;
 auto_manifest;
