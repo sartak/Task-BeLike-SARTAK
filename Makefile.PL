@@ -11,7 +11,7 @@ requires       'App::Ack';
 requires       'Pod::Cpandoc';
 requires       'Devel::NYTProf';
 requires       'Devel::Cover';
-requires       'rename';
+requires       'File::Rename';
 requires       'utf8::all';
 
 # modules I use in scripts
