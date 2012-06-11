@@ -13,6 +13,7 @@ requires       'Devel::NYTProf';
 requires       'Devel::Cover';
 requires       'File::Rename';
 requires       'utf8::all';
+requires       'Unicode::Tussle';
 
 # modules I use in scripts
 requires       'IO::All';
