@@ -22,6 +22,7 @@ requires       'DBD::SQLite';
 requires       'Getopt::Whatever';
 requires       'Web::Scraper';
 requires       'Chart::Clicker';
+requires       'Data::Hash::Totals';
 
 # one-off debugging tools
 requires       'Data::Dump::Streamer';
