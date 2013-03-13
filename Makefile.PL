@@ -14,6 +14,7 @@ requires       'Devel::Cover';
 requires       'File::Rename';
 requires       'utf8::all';
 requires       'Unicode::Tussle';
+requires       'Git::Status::Tackle';
 
 # modules I use in scripts
 requires       'IO::All';
@@ -59,6 +60,9 @@ requires       'Test::Pod';
 requires       'Test::Pod::Coverage';
 requires       'Test::NoTabs';
 requires       'Test::Spelling';
+
+# misc dependencies
+requires       'IO::Pty';
 
 manifest_skip;
 auto_manifest;
