@@ -15,6 +15,7 @@ requires       'File::Rename';
 requires       'utf8::all';
 requires       'Unicode::Tussle';
 requires       'Git::Status::Tackle';
+requires       'forkprove';
 
 # modules I use in scripts
 requires       'IO::All';
