@@ -16,6 +16,8 @@ requires       'utf8::all';
 requires       'Unicode::Tussle';
 requires       'Git::Status::Tackle';
 requires       'App::ForkProve';
+requires       'lib::require::all';
+requires       'App::httpstatus';
 
 # modules I use in scripts
 requires       'IO::All';
