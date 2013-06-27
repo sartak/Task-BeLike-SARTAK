@@ -38,6 +38,7 @@ requires       'autovivification';
 requires       'circular::require';
 requires       'Module::Versions::Report';
 requires       'Signal::StackTrace::CarpLike';
+requires       'Test::Without::Module';
 
 # toolchain
 requires       'Module::Install';
