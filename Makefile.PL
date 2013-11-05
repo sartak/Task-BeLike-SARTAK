@@ -27,6 +27,7 @@ requires       'Getopt::Whatever';
 requires       'Web::Scraper';
 requires       'Chart::Clicker';
 requires       'Data::Hash::Totals';
+requires       'Text::MultiMarkdown';
 
 # one-off debugging tools
 requires       'Data::Dump::Streamer';
