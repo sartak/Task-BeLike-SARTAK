@@ -92,6 +92,8 @@ package Task::BeLike::SARTAK;
 
 =pkg ExtUtils::MakeMaker::Dist::Zilla::Develop
 
+=pkg Archive::Tar::Wrapper 0.15
+
 =pkgroup Japanese
 
 =pkg Lingua::JA::Romanize::Japanese
