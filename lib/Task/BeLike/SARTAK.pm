@@ -1,29 +1,123 @@
 package Task::BeLike::SARTAK;
-use strict;
-use warnings;
-our $VERSION = '0.05';
 
-1;
+#ABSTRACT: be like shawn artak
 
-__END__
+=pkgroup tools I use regularly
 
-=head1 NAME
+=pkg App::Nopaste
 
-Task::BeLike::SARTAK
+=pkg App::Ack
 
-=head1 DESCRIPTION
+=pkg Pod::Cpandoc
 
-See the F<Makefile.PL> in this distribution.
+=pkg Devel::NYTProf
 
-=head1 AUTHOR
+=pkg Devel::Cover
 
-Shawn M Moore C<code@sartak.org>
+=pkg File::Rename
 
-=head1 COPYRIGHT
+=pkg utf8::all
 
-Copyright 2011-2013 Shawn M Moore.
+=pkg Unicode::Tussle
 
-This program is free software; you can redistribute it and/or modify it under the same terms as Perl itself.
+=pkg Git::Status::Tackle
+
+=pkg App::ForkProve
+
+=pkg lib::require::all
+
+=pkg App::httpstatus
+
+=pkgroup modules I use in scripts
+
+=pkg IO::All
+
+=pkg IPC::System::Simple
+
+=pkg DBD::SQLite
+
+=pkg Getopt::Whatever
+
+=pkg Web::Scraper
+
+=pkg Chart::Clicker
+
+=pkg Data::Hash::Totals
+
+=pkg Text::MultiMarkdown
+
+=pkg Template::Declare
+
+=pkgroup one-off debugging tools
+
+=pkg Data::Dump::Streamer
+
+=pkg V
+
+=pkg Carp::Always::Color
+
+=pkg Devel::StackTrace::WithLexicals
+
+=pkg indirect
+
+=pkg autovivification
+
+=pkg circular::require
+
+=pkg Module::Versions::Report
+
+=pkg Signal::StackTrace::CarpLike
+
+=pkg Test::Without::Module
+
+=pkgroup toolchain
+
+=pkg Module::Install
+
+=pkg Module::Install::GithubMeta
+
+=pkg Module::Install::ReadmeFromPod
+
+=pkg Module::Install::ManifestSkip
+
+=pkg Module::Install::AutoManifest
+
+=pkg CPAN::Uploader
+
+=pkg File::ShareDir
+
+=pkg Dist::Zilla
+
+=pkg Dist::Zilla::PluginBundle::DOY
+
+=pkg ExtUtils::MakeMaker::Dist::Zilla::Develop
+
+=pkgroup Japanese
+
+=pkg Lingua::JA::Romanize::Japanese
+
+=pkg Lingua::JP::Kanjidic
+
+=pkg Lingua::JA::Heisig
+
+=pkg Lingua::JA::Moji
+
+=pkg Text::MeCab
+
+=pkgroup typically-optional test dependencies
+
+=pkg Test::Pod
+
+=pkg Test::Pod::Coverage
+
+=pkg Test::NoTabs
+
+=pkg Test::Spelling
+
+=pkgroup misc
+
+=pkg IO::Pty
 
 =cut
 
+1;

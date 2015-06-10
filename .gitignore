@@ -1,11 +1,1 @@
-META.yml
-MYMETA.yml
-MYMETA.json
-Makefile
-MANIFEST
-MANIFEST.bak
-MANIFEST.SKIP
 Task-BeLike-SARTAK-*
-blib/
-inc/
-pm_to_blib
