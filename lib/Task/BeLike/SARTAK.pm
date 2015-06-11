@@ -32,8 +32,6 @@ package Task::BeLike::SARTAK;
 
 =pkg Web::Scraper
 
-=pkg Chart::Clicker
-
 =pkg Data::Hash::Totals
 
 =pkg Text::MultiMarkdown
