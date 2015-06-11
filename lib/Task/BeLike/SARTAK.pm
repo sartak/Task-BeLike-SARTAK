@@ -92,8 +92,6 @@ package Task::BeLike::SARTAK;
 
 =pkg Lingua::JP::Kanjidic
 
-=pkg Lingua::JA::Heisig
-
 =pkg Lingua::JA::Moji
 
 =pkg Text::MeCab
