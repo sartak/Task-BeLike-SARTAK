@@ -12,8 +12,6 @@ package Task::BeLike::SARTAK;
 
 =pkg Unicode::Tussle
 
-=pkg Git::Status::Tackle
-
 =pkg App::ForkProve
 
 =pkg lib::require::all
