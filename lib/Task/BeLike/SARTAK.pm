@@ -8,8 +8,6 @@ package Task::BeLike::SARTAK;
 
 =pkg Pod::Cpandoc
 
-=pkg Devel::NYTProf
-
 =pkg File::Rename
 
 =pkg utf8::all
@@ -44,7 +42,7 @@ package Task::BeLike::SARTAK;
 
 =pkg Template::Declare
 
-=pkgroup one-off debugging tools
+=pkgroup debugging tools
 
 =pkg Data::Dump::Streamer
 
@@ -65,6 +63,8 @@ package Task::BeLike::SARTAK;
 =pkg Signal::StackTrace::CarpLike
 
 =pkg Test::Without::Module
+
+=pkg Devel::NYTProf
 
 =pkgroup toolchain
 
