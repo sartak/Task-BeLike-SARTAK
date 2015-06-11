@@ -6,8 +6,6 @@ package Task::BeLike::SARTAK;
 
 =pkg App::Nopaste
 
-=pkg App::Ack
-
 =pkg Pod::Cpandoc
 
 =pkg Devel::NYTProf
