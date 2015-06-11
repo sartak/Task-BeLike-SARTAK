@@ -10,8 +10,6 @@ package Task::BeLike::SARTAK;
 
 =pkg Devel::NYTProf
 
-=pkg Devel::Cover
-
 =pkg File::Rename
 
 =pkg utf8::all
