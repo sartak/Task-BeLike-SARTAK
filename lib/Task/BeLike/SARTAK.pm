@@ -10,8 +10,6 @@ package Task::BeLike::SARTAK;
 
 =pkg File::Rename
 
-=pkg utf8::all
-
 =pkg Unicode::Tussle
 
 =pkg Git::Status::Tackle
@@ -23,6 +21,8 @@ package Task::BeLike::SARTAK;
 =pkg App::httpstatus
 
 =pkgroup modules I use in scripts
+
+=pkg utf8::all
 
 =pkg IO::All
 
